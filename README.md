@@ -30,7 +30,7 @@ print or return the learned parameters and predictions.
 <br>
 
 ## Program:
-```
+
 <img width="816" height="591" alt="image" src="https://github.com/user-attachments/assets/1b52d3e7-255b-49f5-ac7c-49b3abd3202c" />
 
 
@@ -38,7 +38,7 @@ print or return the learned parameters and predictions.
 
 
 
-```
+
 ## Output:
 <img width="819" height="78" alt="image" src="https://github.com/user-attachments/assets/708c3e3e-2a3b-4e73-ab33-9268a8832058" />
 
